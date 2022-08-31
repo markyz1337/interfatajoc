@@ -16,7 +16,7 @@ local connected = false
 local changePos = false
 local changeSize = false
 
-local tdIDs = {2113, 2082, 2083, 29, 28, 2069, 2070} -- add 47, 48 ,49 etc
+local tdIDs = {2113, 2082, 2083, 29, 28, 2069, 2070, 81, 82, 83, 84} -- add 47, 48 ,49 etc
 
 local settings = {
     pos = {},
